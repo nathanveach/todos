@@ -11,6 +11,4 @@ feature "User completes todo" do
 
 		expect(page).to display_completed_todo "Buy milk"
 	end
-
-
 end
